@@ -701,7 +701,7 @@ gotoxy(20,3) ;
  }
    void main()
    {gotoxy(10,11);  cout<<"****THIS PROGRAM WOULD NOT HAVE BEEN POSSIBLE WITHOUT OUR  COMPUTER SCIENCE TEACHER MR.A GEORGE SWAMY****";sleep(3);
-     gotoxy(10,14); cout<<"****DONE BY SHUBHAM GANDHI AND ELTON RODRIGUES OF CLASS XII-D****";sleep(3);
+     gotoxy(10,14); cout<<"****DONE BY SHUBHAM GANDHI OF CLASS XII-D****";sleep(3);
 
     menu();
 
