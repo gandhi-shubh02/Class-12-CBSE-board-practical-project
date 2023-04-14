@@ -8,6 +8,7 @@
 #include<stdio.h>
 #include<stdlib.h>
 #include<fstream.h>
+rgoqpgnm35prgv3nrgo13[4ngf[1	3i4gfn1[4ifg	1]
   void box(int a,int b,int c,int d)
 {
 	for(int i=a;i<c;i++)
